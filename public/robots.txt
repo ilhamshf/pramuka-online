@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://pramuka.online
+Host: https://sku.vercel.app/
 
 # Sitemaps
-Sitemap: https://pramuka.online/sitemap.xml
+Sitemap: https://sku.vercel.app/sitemap.xml

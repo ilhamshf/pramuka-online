@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://pramuka.online',
+  siteUrl: 'https://sku.vercel.app/',
   generateRobotsTxt: true,
   sitemapSize: 100,
   exclude: ['']
