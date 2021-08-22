@@ -12,7 +12,7 @@ import { BASE_PATH } from '../constants'
 import { scrollTo } from '../utils'
 
 const url = BASE_PATH
-const authorName = 'Irfan Maulana'
+const authorName = 'Ilham Shofa'
 
 interface LayoutProps {
   children: ReactChild
